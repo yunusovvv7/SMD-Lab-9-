@@ -1,4 +1,4 @@
-# Amaliy ish: Korutinalar bilan tanishish (Kotlin / kotlinx-coroutines-core 1.10.2)
+# Amaliy ish: Korutinalar bilan tanishish (Kotlin )
 
 Ushbu repository Korutinalar amaliy ishi doirasida bajarilgan 15 ta asosiy va 5 ta qo'shimcha savollarning to'liq va mukammal yechimlarini o'z ichiga oladi.
 
@@ -284,4 +284,4 @@ Ushbu repository Korutinalar amaliy ishi doirasida bajarilgan 15 ta asosiy va 5 
   Hello, Grace
   after
   ```
-- **Tushuntirish:** Korutinalar o'sib boruvchi pauzalar bilan (`100ms`, `200ms`, `300ms`) ishga tushadi. `coroutineScope` "after" faqat barcha salomlashishlar tugagach chiqishini ta'minlaydi.
+- **** Korutinalar o'sib boruvchi pauzalar bilan (`100ms`, `200ms`, `300ms`) ishga tushadi. `coroutineScope` "after" faqat barcha salomlashishlar tugagach chiqishini ta'minlaydi.
